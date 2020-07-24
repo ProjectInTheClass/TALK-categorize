@@ -8,10 +8,10 @@ Persona
 2. 카톡방이 복잡해서 정리가 안되는 20대
 
 프로토타입
-<img scr = "Docs/img02.png" width="30" heigh="30%">
+<img scr = "Docs/img02.png" width="30%" heigh="30%">
 
 첫화면
-<img src = "Docs/img01.png" width="30%" heigh="30%">
+
 
 동영상 넣기 
 [프로토타입 시연](Docs/영상.mov)
