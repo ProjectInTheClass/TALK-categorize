@@ -13,4 +13,4 @@ Persona
 첫화면
 <img src = "Docs/img01.png" width="30%" heigh="30%">
 
-동영상 넣기
+동영상 넣기doc/testvided.mov)
