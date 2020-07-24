@@ -14,4 +14,4 @@ Persona
 <img src = "Docs/img01.png" width="30%" heigh="30%">
 
 동영상 넣기 
-[프로토타입 시연](doc/testvideo.mov)
+[프로토타입 시연](Docs/영상.mov)
